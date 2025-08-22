@@ -20,6 +20,9 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente a interface do Dashboard.     |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C02-CT01] (https://jam.dev/c/e3fea2a6-f18b-4fc3-9100-1d47d093d378)) |
 ---
 
 ### Caso de Teste 02: Verificação da exibição dos widgets do Dashboard.
@@ -43,6 +46,9 @@
 | :-------------------------------------------------------------- |
 | Todos os widgets principais devem ser visíveis e funcionais.     |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C02-CT02] (https://jam.dev/c/fd13f997-dda5-4883-bad3-99ac200a8902)) |
 ---
 
 ### Caso de Teste 03: Acesso ao Dashboard com sessão expirada.
@@ -65,3 +71,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C02-CT03] (https://jam.dev/c/4ee2f3f5-4092-4b6f-b488-62a2356c7c23)) |
+---

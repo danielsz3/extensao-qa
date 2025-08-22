@@ -23,6 +23,9 @@
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C02-CT01] ()) |
 ---
 
 ### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença.
@@ -48,6 +51,9 @@
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C02-CT01] ()) |
 ---
 
 ### Caso de Teste 03: Visualizar status das solicitações de férias.
@@ -69,3 +75,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C02-CT01] ()) |
+---
