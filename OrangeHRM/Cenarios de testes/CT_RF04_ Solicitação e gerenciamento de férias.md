@@ -1,6 +1,6 @@
-## Cenário 04: Solicitação e gerenciamento de férias.
+# Cenário 04: Solicitação e gerenciamento de férias
 
-### Caso de Teste 01: Solicitação de férias com datas válidas.
+## Caso de Teste 01: Solicitação de férias com datas válidas
 
 | ID       | Descrição                                                               |
 | :------- | :---------------------------------------------------------------------- |
@@ -25,10 +25,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C04-CT01] (https://jam.dev/c/5bfc8cac-beaa-43c6-9efb-5f15a625fc40)) |
+
 ---
 
-### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença.
+### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença
 
 | ID       | Descrição                                                                         |
 | :------- | :-------------------------------------------------------------------------------- |
@@ -53,10 +54,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C04-CT02] (https://jam.dev/c/5a2a3d3f-543f-4a15-8c41-96e5dd8e3943)) |
+
 ---
 
-### Caso de Teste 03: Visualizar status das solicitações de férias.
+### Caso de Teste 03: Visualizar status das solicitações de férias
 
 | ID       | Descrição                                                              |
 | :------- | :--------------------------------------------------------------------- |
@@ -78,5 +80,6 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C04-CT03] (https://jam.dev/c/c2570c0a-5dc5-4b04-8e98-6a92bd4d16f0)) |
+
 ---

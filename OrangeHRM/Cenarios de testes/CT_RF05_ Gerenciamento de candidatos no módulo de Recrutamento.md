@@ -1,6 +1,6 @@
-## Cenário 05: Gerenciamento de candidatos no módulo de Recrutamento.
+# Cenário 05: Gerenciamento de candidatos no módulo de Recrutamento
 
-### Caso de Teste 01: Adicionar um novo candidato com dados válidos.
+## Caso de Teste 01: Adicionar um novo candidato com dados válidos
 
 | ID       | Descrição                                                              |
 | :------- | :---------------------------------------------------------------------- |
@@ -24,10 +24,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C05-CT01] (https://jam.dev/c/5a1c5c23-2859-406e-8e38-6447ea31aa2f)) |
+
 ---
 
-### Caso de Teste 02: Tentar adicionar candidato sem preencher campos obrigatórios.
+### Caso de Teste 02: Tentar adicionar candidato sem preencher campos obrigatórios
 
 | ID       | Descrição                                                                     |
 | :------- | :------------------------------------------------------------------------------ |
@@ -51,10 +52,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C05-CT02] (https://jam.dev/c/00739647-2821-4fdb-93b0-1a9b26404e73)) |
+
 ---
 
-### Caso de Teste 03: Buscar candidato cadastrado pelo nome.
+### Caso de Teste 03: Buscar candidato cadastrado pelo nome
 
 | ID       | Descrição                                                        |
 | :------- | :---------------------------------------------------------------- |
@@ -77,5 +79,6 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C05-CT03] ()) |
+
 ---

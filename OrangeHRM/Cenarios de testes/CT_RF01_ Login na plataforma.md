@@ -1,6 +1,6 @@
-## Cenário 01: Login na plataforma.
+# Cenário 01: Login na plataforma
 
-### Caso de Teste 01: Login com as credenciais válidas.
+## Caso de Teste 01: Login com as credenciais válidas
 
 | ID       | Descrição                                                |
 | :------- | :------------------------------------------------------- |
@@ -25,9 +25,10 @@
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
 | [Vídeo]([C01-CT01](https://jam.dev/c/e3fea2a6-f18b-4fc3-9100-1d47d093d378)) |
+
 ---
 
-### Caso de Teste 02: Tentativa de login com senha incorreta.
+### Caso de Teste 02: Tentativa de login com senha incorreta
 
 | ID       | Descrição                                                |
 | :------- | :------------------------------------------------------- |
@@ -52,9 +53,10 @@
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
 | [Vídeo]([C01-CT02] (https://jam.dev/c/1a073004-1642-44f8-8958-fd924f76eeff)) |
+
 ---
 
-### Caso de Teste 03: Tentativa de login com campos em branco.
+### Caso de Teste 03: Tentativa de login com campos em branco
 
 | ID       | Descrição                                                |
 | :------- | :------------------------------------------------------- |
@@ -78,4 +80,5 @@
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
 | [Vídeo]([C01-CT03](https://jam.dev/c/3944c278-5728-4f46-a8a1-749fd8966427)) |
+
 ---
