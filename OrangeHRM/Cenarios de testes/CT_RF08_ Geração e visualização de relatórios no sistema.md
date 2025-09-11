@@ -1,6 +1,6 @@
-## Cenário 08: Geração e visualização de relatórios no sistema.
+# Cenário 08: Geração e visualização de relatórios no sistema
 
-### Caso de Teste 01: Gerar relatório de presença com filtros válidos.
+## Caso de Teste 01: Gerar relatório de presença com filtros válidos
 
 | ID       | Descrição                                                                 |
 | :------- | :------------------------------------------------------------------------ |
@@ -23,10 +23,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C08-CT01] (https://jam.dev/c/f5a08af7-8102-4142-838b-177c817d24da)) |
+
 ---
 
-### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
+### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios
 
 | ID       | Descrição                                                                     |
 | :------- | :------------------------------------------------------------------------------ |
@@ -49,10 +50,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C08-CT02] (https://jam.dev/c/e3d93932-dcdb-48cc-8015-da756aaae0b6)) |
+
 ---
 
-### Caso de Teste 03: Exportar relatório gerado em PDF.
+### Caso de Teste 03: Exportar relatório gerado em PDF
 
 | ID       | Descrição                                                               |
 | :------- | :---------------------------------------------------------------------- |
@@ -74,5 +76,6 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C08-CT03] (https://jam.dev/c/94bc194f-653a-48e3-ba4f-33eb6049ff7a)) |
+
 ---

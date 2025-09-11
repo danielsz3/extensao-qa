@@ -1,6 +1,6 @@
-## Cenário 10: Funcionalidade de Manutenção do Sistema.
+# Cenário 10: Funcionalidade de Manutenção do Sistema
 
-### Caso de Teste 01: Verificar acesso ao sistema durante manutenção programada.
+## Caso de Teste 01: Verificar acesso ao sistema durante manutenção programada
 
 | ID       | Descrição                                                                  |
 | :------- | :------------------------------------------------------------------------- |
@@ -23,10 +23,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C10-CT01] (https://jam.dev/c/2a918beb-4f60-4e88-8f47-8b1100927715)) |
+
 ---
 
-### Caso de Teste 02: Acessar o sistema após término da manutenção.
+### Caso de Teste 02: Acessar o sistema após término da manutenção
 
 | ID       | Descrição                                                                  |
 | :------- | :------------------------------------------------------------------------- |
@@ -49,10 +50,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C10-CT02] (https://jam.dev/c/2a918beb-4f60-4e88-8f47-8b1100927715)) |
+
 ---
 
-### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
+### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada
 
 | ID       | Descrição                                                               |
 | :------- | :------------------------------------------------------------------------ |
@@ -75,5 +77,6 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C10-CT03] (https://jam.dev/c/2a918beb-4f60-4e88-8f47-8b1100927715)) |
+
 ---

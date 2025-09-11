@@ -1,6 +1,6 @@
-## Cenário 06: Gerenciamento de usuários no módulo Administração (Admin).
+# Cenário 06: Gerenciamento de usuários no módulo Administração (Admin)
 
-### Caso de Teste 01: Adicionar um novo usuário com dados válidos.
+## Caso de Teste 01: Adicionar um novo usuário com dados válidos.
 
 | ID       | Descrição                                                            |
 | :------- | :------------------------------------------------------------------- |
@@ -24,10 +24,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C06-CT01] (https://jam.dev/c/1109ed34-90db-4259-bacf-8cc38df20ccb)) |
+
 ---
 
-### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente.
+### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente
 
 | ID       | Descrição                                                                       |
 | :------- | :------------------------------------------------------------------------------- |
@@ -51,10 +52,11 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C06-CT02] (https://jam.dev/c/c4ad7855-a1ac-41ae-b340-1b412d8fb19b)) |
+
 ---
 
-### Caso de Teste 03: Filtrar usuários por status "Enabled".
+### Caso de Teste 03: Filtrar usuários por status "Enabled"
 
 | ID       | Descrição                                                      |
 | :------- | :------------------------------------------------------------- |
@@ -77,5 +79,6 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]([C02-CT01] ()) |
+| [Vídeo]([C06-CT03] (https://jam.dev/c/ddf6a270-3e96-42db-9a72-b6cf47dfb135)) |
+
 ---
