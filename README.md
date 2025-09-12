@@ -30,3 +30,4 @@ Processos: Planejamento de Teste, Execução e Relatório
 🚀 Sites interessantes para prática
 OrangeHRM Demo (https://opensource-demo.orangehrmlive.com)
 
+## Daniel Mesquita Oliveira | RAº 14044
