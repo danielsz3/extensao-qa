@@ -1,6 +1,6 @@
-## Cenário 03: Gestão de funcionários via módulo PIM.
+# Cenário 03: Gestão de funcionários via módulo PIM
 
-### Caso de Teste 01: Adicionar novo funcionário com dados válidos.
+## Caso de Teste 01: Adicionar novo funcionário com dados válidos
 
 | ID       | Descrição                                                          |
 | :------- | :----------------------------------------------------------------- |
@@ -22,9 +22,13 @@
 | :-------------------------------------------------------------- |
 | O funcionário deve aparecer corretamente listado no módulo PIM. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C03-CT01] (https://jam.dev/c/51e4ce82-27e8-472e-b81a-e3a4f0f0bd2d)) |
+
 ---
 
-### Caso de Teste 02: Tentar adicionar funcionário sem preencher campos obrigatórios.
+### Caso de Teste 02: Tentar adicionar funcionário sem preencher campos obrigatórios
 
 | ID       | Descrição                                                                  |
 | :------- | :------------------------------------------------------------------------- |
@@ -45,9 +49,13 @@
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C03-CT02] (https://jam.dev/c/f123c9a1-c057-40c0-a309-9f2f8ee1a92b)) |
+
 ---
 
-### Caso de Teste 03: Pesquisar funcionário já cadastrado.
+### Caso de Teste 03: Pesquisar funcionário já cadastrado
 
 | ID       | Descrição                                                  |
 | :------- | :--------------------------------------------------------- |
@@ -67,3 +75,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionário correspondente deve ser listado corretamente.     |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C03-CT03] (https://jam.dev/c/bc59d110-c89e-467c-9cf0-3e1131b06c91)) |
+
+---

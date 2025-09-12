@@ -1,6 +1,6 @@
-## Cenário 09: Consulta de colaboradores no módulo Diretório.
+# Cenário 09: Consulta de colaboradores no módulo Diretório
 
-### Caso de Teste 01: Buscar colaborador por nome com sucesso.
+## Caso de Teste 01: Buscar colaborador por nome com sucesso
 
 | ID       | Descrição                                                               |
 | :------- | :---------------------------------------------------------------------- |
@@ -21,9 +21,13 @@
 | :-------------------------------------------------------------- |
 | O nome, cargo e localização do colaborador devem ser exibidos corretamente. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C09-CT01] (https://jam.dev/c/a8467777-ef15-456b-8c92-27f0e66e7f1e)) |
+
 ---
 
-### Caso de Teste 02: Buscar colaborador inexistente.
+### Caso de Teste 02: Buscar colaborador inexistente
 
 | ID       | Descrição                                                                   |
 | :------- | :-------------------------------------------------------------------------- |
@@ -44,9 +48,13 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir claramente que não há registros encontrados. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C09-CT02] (https://jam.dev/c/f4a5e683-48fd-41f4-9c7d-f7fc1939b5fe)) |
+
 ---
 
-### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
+### Caso de Teste 03: Aplicar filtro por cargo (Job Title)
 
 | ID       | Descrição                                                                |
 | :------- | :------------------------------------------------------------------------ |
@@ -66,3 +74,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C09-CT03] (https://jam.dev/c/e2239fa4-5ad4-46a9-938d-d7d8d97ce7e4)) |
+
+---

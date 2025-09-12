@@ -1,6 +1,6 @@
-## Cenário 07: Registro de ponto (Controle de Horas) pelo módulo Time.
+# Cenário 07: Registro de ponto (Controle de Horas) pelo módulo Time
 
-### Caso de Teste 01: Marcar ponto (Check In) com horário válido.
+## Caso de Teste 01: Marcar ponto (Check In) com horário válido
 
 | ID       | Descrição                                                                  |
 | :------- | :------------------------------------------------------------------------- |
@@ -21,9 +21,13 @@
 | :-------------------------------------------------------------- |
 | O sistema deve confirmar o registro com uma mensagem e salvar o horário. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C07-CT01] (https://jam.dev/c/e09b85c0-f2f5-47d7-aed1-c261c3120832)) |
+
 ---
 
-### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente.
+### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente
 
 | ID       | Descrição                                                                 |
 | :------- | :------------------------------------------------------------------------ |
@@ -43,9 +47,13 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C07-CT02] (https://jam.dev/c/7f79b97b-38e5-4f0f-9b7a-4c3738fc94fb)) |
+
 ---
 
-### Caso de Teste 03: Consultar registro de ponto anterior.
+### Caso de Teste 03: Consultar registro de ponto anterior
 
 | ID       | Descrição                                                              |
 | :------- | :---------------------------------------------------------------------- |
@@ -64,3 +72,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C07-CT03] (https://jam.dev/c/1cb75632-bad6-49e6-8895-d1a8fe93802a)) |
+
+---

@@ -1,6 +1,6 @@
-## Cenário 08: Geração e visualização de relatórios no sistema.
+# Cenário 08: Geração e visualização de relatórios no sistema
 
-### Caso de Teste 01: Gerar relatório de presença com filtros válidos.
+## Caso de Teste 01: Gerar relatório de presença com filtros válidos
 
 | ID       | Descrição                                                                 |
 | :------- | :------------------------------------------------------------------------ |
@@ -21,9 +21,13 @@
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C08-CT01] (https://jam.dev/c/f5a08af7-8102-4142-838b-177c817d24da)) |
+
 ---
 
-### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
+### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios
 
 | ID       | Descrição                                                                     |
 | :------- | :------------------------------------------------------------------------------ |
@@ -44,9 +48,13 @@
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C08-CT02] (https://jam.dev/c/e3d93932-dcdb-48cc-8015-da756aaae0b6)) |
+
 ---
 
-### Caso de Teste 03: Exportar relatório gerado em PDF.
+### Caso de Teste 03: Exportar relatório gerado em PDF
 
 | ID       | Descrição                                                               |
 | :------- | :---------------------------------------------------------------------- |
@@ -65,3 +73,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C08-CT03] (https://jam.dev/c/94bc194f-653a-48e3-ba4f-33eb6049ff7a)) |
+
+---

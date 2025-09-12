@@ -1,6 +1,6 @@
-## Cenário 10: Funcionalidade de Manutenção do Sistema.
+# Cenário 10: Funcionalidade de Manutenção do Sistema
 
-### Caso de Teste 01: Verificar acesso ao sistema durante manutenção programada.
+## Caso de Teste 01: Verificar acesso ao sistema durante manutenção programada
 
 | ID       | Descrição                                                                  |
 | :------- | :------------------------------------------------------------------------- |
@@ -21,9 +21,13 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de manutenção e bloquear o acesso às funcionalidades. |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C10-CT01] (https://jam.dev/c/2a918beb-4f60-4e88-8f47-8b1100927715)) |
+
 ---
 
-### Caso de Teste 02: Acessar o sistema após término da manutenção.
+### Caso de Teste 02: Acessar o sistema após término da manutenção
 
 | ID       | Descrição                                                                  |
 | :------- | :------------------------------------------------------------------------- |
@@ -44,9 +48,13 @@
 | :-------------------------------------------------------------- |
 | O usuário deve ser capaz de acessar o sistema normalmente.      |
 
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C10-CT02] (https://jam.dev/c/2a918beb-4f60-4e88-8f47-8b1100927715)) |
+
 ---
 
-### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
+### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada
 
 | ID       | Descrição                                                               |
 | :------- | :------------------------------------------------------------------------ |
@@ -66,3 +74,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de falha e manutenção, informando que o sistema está indisponível. |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo]([C10-CT03] (https://jam.dev/c/2a918beb-4f60-4e88-8f47-8b1100927715)) |
+
+---
